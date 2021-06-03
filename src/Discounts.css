@@ -1,0 +1,48 @@
+.starter {
+  text-align: center;
+}
+.discount_img {
+  padding-top: 10px;
+  width: 100%;
+}
+
+.discount {
+  width: 175px;
+}
+
+h1.discount-text{
+  color: #51B667;
+}
+
+h3.family-income{
+  text-align: start;
+}
+
+input {
+  width: 96%;
+  height: 25px;
+}
+
+.income-list {
+  display: inline;
+  position: relative;
+}
+
+#onclick_v {
+  background: none;
+  border: none;
+  position: absolute;
+  left: -25px;
+  padding-top: 5px;
+  font-size: 1.1rem;
+  cursor: pointer;
+}
+
+.li p:hover {
+  background-color: grey;
+  padding: 10px;
+}
+
+.buttonText {
+  padding-top: 20px;
+}

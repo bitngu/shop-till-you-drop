@@ -1,0 +1,76 @@
+@import './styles.css';
+
+.starter {
+  text-align: center;
+}
+.cart_img {
+  padding-top: 10px;
+  width: 100%;
+}
+
+.cart {
+  width: 175px;
+}
+
+h1{
+  color: #37A5E4
+}
+
+h4 {
+  font-weight: bold;
+}
+
+
+.dropdown {
+  max-width: 100%;
+}
+
+input {
+  width: 96%;
+  height: 25px;
+}
+
+.city{
+  display:block;
+}
+
+#x_button {
+  display: inline;
+  position: absolute;
+}
+
+#onclick_x {
+  background: none;
+  border: none;
+  position: absolute;
+  left: -25px;
+  padding-top: 5px;
+  font-size: 1.1rem;
+  cursor: pointer;
+}
+
+.options {
+  background-color:white;
+  padding: 5px 20px 5px 20px;
+  cursor: default;
+
+}
+.options p:hover {
+  background-color: grey;
+  padding: 10px;
+}
+
+.buttonText {
+  padding-top: 20px;
+}
+
+
+@media (min-width: 600px){
+    p {
+      text-align: center;
+    }
+    .options p {
+      text-align: start;
+    }
+
+}

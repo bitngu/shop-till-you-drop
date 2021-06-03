@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700&display=swap');
+
+* {
+  font-family: 'Roboto'
+}
+
+p {
+  text-align: start;
+}
+
+body {
+    background-color: #F5F0E7;
+    padding: 10%;
+}
+
+hr {
+  border-top: 1px dashed; 
+}
